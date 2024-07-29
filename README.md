@@ -1,7 +1,8 @@
-# Sort Books
+# React + Vite
 
-#### Create a Redux store for Book sorting that holds a state for a list of books. 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Write an action to fetch the list of Books and its details from an API and update the store with the results. 
+Currently, two official plugins are available:
 
-Allow the user to sort the list of posts by Title, author & publisher
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
